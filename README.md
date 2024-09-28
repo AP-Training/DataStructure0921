@@ -12,3 +12,4 @@
 #### 課程大綱
 - [0. 補充 - 類別的進階用法](http://AP-Training.github.io/DataStructure0921/0-1.%20補充%20-%20類別進階用法_Q.slides.html)
 - [1. 開發環境建置](http://AP-Training.github.io/DataStructure0921/0.%20開發環境建置.slides.html)
+- [2. 資料結構與演算法簡介](http://AP-Training.github.io/DataStructure0921/1.%20資料結構與演算法簡介.slides.html)
