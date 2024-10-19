@@ -14,3 +14,4 @@
 - [1. 開發環境建置](http://AP-Training.github.io/DataStructure0921/0.%20開發環境建置.slides.html)
 - [2. 資料結構與演算法簡介](http://AP-Training.github.io/DataStructure0921/1.%20資料結構與演算法簡介.slides.html)
 - [3. 陣列（Array）](http://AP-Training.github.io/DataStructure0921/2.%20陣列(Array)_Q.slides.html)
+- [4. 佇列（Queue）](http://AP-Training.github.io/DataStructure0921/3.%20佇列(Queue)_Q.slides.html)
