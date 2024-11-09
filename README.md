@@ -16,3 +16,4 @@
 - [3. 陣列（Array）](http://AP-Training.github.io/DataStructure0921/2.%20陣列(Array)_Q.slides.html)
 - [4. 佇列（Queue）](http://AP-Training.github.io/DataStructure0921/3.%20佇列(Queue)_Q.slides.html)
 - [5. 堆疊（Stack）](http://AP-Training.github.io/DataStructure0921/4.堆疊_Q(Stack).slides.html)
+- [6. 遞迴（Recursive）](http://AP-Training.github.io/DataStructure0921/13.%20遞迴_Q(Recursive).slides.html)
