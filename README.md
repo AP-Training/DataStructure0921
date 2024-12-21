@@ -19,3 +19,4 @@
 - [6. 遞迴（Recursive）](http://AP-Training.github.io/DataStructure0921/13.%20遞迴_Q(Recursive).slides.html)
 - [7. 鏈結串列（Linked List）](http://AP-Training.github.io/DataStructure0921/5.鏈結串列_Q(Linked%20List).slides.html)
 - [8. 二元搜尋樹（Binary Search Tree）](http://AP-Training.github.io/DataStructure0921/6.二元搜尋樹(Binary%20Search%20Tree)_Q.slides.html)
+- [9. 堆積樹（Heap Tree）](http://AP-Training.github.io/DataStructure0921/7.堆積樹(Heap%20Tree)_Q.slides.html)
