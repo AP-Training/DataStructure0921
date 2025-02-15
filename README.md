@@ -22,3 +22,4 @@
 - [9. 堆積樹（Heap Tree）](http://AP-Training.github.io/DataStructure0921/7.堆積樹(Heap%20Tree)_Q.slides.html)
 - [10. 排序（一）（Sort）](http://AP-Training.github.io/DataStructure0921/9.排序(Sort)(一)_Q.slides.html)
 - [11. 排序（二）（Sort）](http://AP-Training.github.io/DataStructure0921/10.排序(Sort)(二)_Q.slides.html)
+- [12. 排序（三）（Sort）](http://AP-Training.github.io/DataStructure0921/11.排序(Sort)(三)_Q.slides.html)
