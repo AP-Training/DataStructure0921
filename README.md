@@ -23,4 +23,4 @@
 - [10. 排序（一）（Sort）](http://AP-Training.github.io/DataStructure0921/9.排序(Sort)(一)_Q.slides.html)
 - [11. 排序（二）（Sort）](http://AP-Training.github.io/DataStructure0921/10.排序(Sort)(二)_Q.slides.html)
 - [12. 排序（三）（Sort）](http://AP-Training.github.io/DataStructure0921/11.排序(Sort)(三)_Q.slides.html)
-- [12. 搜尋（Search）](http://AP-Training.github.io/DataStructure0921/12.%20搜尋_Q.slides.html)
+- [13. 搜尋（Search）](http://AP-Training.github.io/DataStructure0921/12.%20搜尋_Q.slides.html)
